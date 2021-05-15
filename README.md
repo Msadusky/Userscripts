@@ -1,4 +1,3 @@
-# Userscripts
-Collection of Userscripts 
+# Element Export
 
-* These are being developed in Chrome using the extension Tampermonkey, alternate browsers and userscript extensions are not guaranteed to work.
+* Userscript to pull an element off a webpage and display just that element on a separate page.
